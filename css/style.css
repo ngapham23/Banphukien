@@ -13,9 +13,9 @@ body{
 }
 
 .header{
-    background-image: url('../images/phu-kien-chinh-hang.jpg');
-    background-repeat: repeat;
+   background-image: url("../images/phu-kien-chinh-hang.jpg");
     background-size: 100% 280px;
+    background-repeat: no-repeat;
     border: 1px solid #1c051c;
     width:100%;
     height: 280px;

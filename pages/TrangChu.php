@@ -8,6 +8,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <link rel="stylesheet" type="text/css" href="/BanPhuKien/css/style.css">
+<link rel="stylesheet" type="text/css" href="/BanPhuKien/css/slideimg.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <title>Phụ Kiện Online</title>
 
@@ -24,14 +25,16 @@
     include "formcon/main.php";
     include "formcon/footer.php";
    ?>
-   yêu cầu chức năng: yêu cầu nghiệp vụ chức năng
+   <!-- yêu cầu chức năng: yêu cầu nghiệp vụ chức năng
    yêu cầu phi chức năng: yêu cầu chức năng
    yêu cầu hệ thống: 
-   <!-- phiếu nhập kho
+   phiếu nhập kho
    phiếu xuất kho
    cân đối kho
    hoá đơn giá trị gia tăng
    
-     -->
+     --> 
+     <script src="/BanPhuKien/js/slideimg.js"></script>
+
 </body>
 </html>

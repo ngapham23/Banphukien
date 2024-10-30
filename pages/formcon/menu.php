@@ -19,38 +19,20 @@
         </ul>
     </div>
     <div class="menu1">
-         <!-- Slideshow container -->
-<div class="slideshow-container">
+    <div class="slideshow-container">
+        <div class="slide fade">
+        <img src="https://phukiengiaxuong.com.vn/cdn/upload/files/slide/hang-thanh-ly.webp" alt="Tai Nghe 1" style="width:100%">
 
-<!-- Full-width images with number and caption text -->
-<div class="mySlides fade">
- 
-  <img src="/images/tainghe1.jpg" style="width:100%">
-  
-</div>
 
-<div class="mySlides fade">
-  
-  <img src="img2.jpg" style="width:100%">
-</div>
+        </div>
 
-<div class="mySlides fade">
- 
-  <img src="img3.jpg" style="width:100%">
+        <div class="slide fade">
+        <img src="https://phukiengiaxuong.com.vn/cdn/upload/files/slide/kinh-nghiem-mo-cua-hang-tu-a-z.webp" alt="Tai Nghe 1" style="width:100%">
 
-</div>
+        <div class="slide fade">
+        <img src="../images/tainghe1.jpg" alt="Tai Nghe 1" style="width:100%">
+        </div>
+    </div>
 
-<!-- Next and previous buttons -->
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-<span class="dot" onclick="currentSlide(1)"></span>
-<span class="dot" onclick="currentSlide(2)"></span>
-<span class="dot" onclick="currentSlide(3)"></span>
-</div>
     </div>
   
